@@ -34,8 +34,8 @@ You must run **Scrape.exe** before using the extension. This executable creates 
 If you would like to contribute or report an issue, please visit the GitHub repository (if applicable).
 
 ## License
-This project is licensed under [Your Preferred License].
+This project is licensed under Apache-2.0 license.
 
 ## Support
-For any issues, please contact [Your Contact Info].
+For any issues, please contact sandeepks.jsr@gmail.com.
 
