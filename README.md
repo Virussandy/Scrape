@@ -17,7 +17,7 @@ Scrape is a Chrome and Firefox extension that captures full-page screenshots and
 ### 2. Download and Run Scrape.exe
 You must run **Scrape.exe** before using the extension. This executable creates a local server to save your screenshots.
 
-1. [Download Scrape.exe](#)
+1. [Download Scrape.exe](https://raw.githubusercontent.com/Virussandy/Scrape/refs/heads/main/dist/Scrape.exe)
 2. Extract the file if necessary.
 3. Double-click **Scrape.exe** to start the local server.
 
