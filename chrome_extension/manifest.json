@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "SCRAPE",
+  "version": "1.0",
+  "description": "Capture screenshots",
+  "permissions": [
+    "activeTab",
+    "notifications",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:5000/"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  },
+  "action": {
+    "default_icon": {
+      "128": "icons/icon128.png"
+    }
+  },
+  "commands": {
+    "take_screenshot": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+X",
+        "mac": "Command+Shift+X"
+      },
+      "description": "Take a screenshot"
+    }
+  }
+}
