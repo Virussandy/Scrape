@@ -11,7 +11,7 @@ Scrape is a Chrome and Firefox extension that captures full-page screenshots and
 
 ## Installation
 ### 1. Install the Browser Extension
-- **Chrome**: [Download from Chrome Web Store](#)
+- **Chrome**: [Download from Chrome Web Store](https://chromewebstore.google.com/detail/scrape/cicmjppadmphjgifbggiljcodlbjgpbb)
 - **Firefox**: [Download from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/scrape/)
 
 ### 2. Download and Run Scrape.exe
